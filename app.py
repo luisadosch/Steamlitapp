@@ -275,3 +275,5 @@ elif page == "Contact":
     st.title("Get in Touch")
     st.write("📧 Email: [luisadosch@gmx.de](luisadosch@gmx.de)")
     st.write("🔗 LinkedIn: [Luisa Dosch](https://www.linkedin.com/in/luisadosch/)")
+    st.write("🐙 Github: [luisadosch](https://github.com/luisadosch)")
+
