@@ -1,7 +1,7 @@
 # 📊 Data-Driven Projects – Portfolio (Streamlit App)  
 
 ## 🚀 Overview  
-This **Streamlit app** presents a collection of my **university projects** in **Data Science and Data-Driven Analysis**, covering **Machine Learning, Deep Learning, and Simulation techniques**. The projects focus on **time series forecasting, image processing, and other real-world applications**.  
+This **Streamlit app** presents a collection of my **university projects** in **Data Science and Data-Driven Analysis**, covering **Machine Learning, Deep Learning, and Simulation techniques**. The projects focus on **time series forecasting, image processing, geospatial data analysis and other data-driven real-world applications**.  
 
 ## 🔥 Features  
 ✅ **Interactive dashboards** for data exploration and visualization  
