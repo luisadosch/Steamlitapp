@@ -16,6 +16,6 @@ This **Streamlit app** presents a collection of my **university projects** in **
 - **Data visualization** using Matplotlib, Seaborn & Plotly  
 
 ## 🎯 Explore My Projects  
-🔗 **Live App:** [Streamlit Portfolio](your-streamlit-link)  
+🔗 **Live App:** [https://luisadosch.streamlit.app/](https://luisadosch.streamlit.app/)  
 
 Feel free to explore the projects, interact with the models, and gain insights into my work in **Data Science and AI-driven applications**. 🚀 
